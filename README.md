@@ -1,5 +1,5 @@
 <h1 align="center">Hello!👋🏼 I'm Juan Herrera</h1> 
-<h3 align="center">"Connect to advance" </h3>
+<h3 align="center">"Connect to emotion, grow up and advance" </h3>
 
 - 🔭 I’m currently studying Bioinformatics @ **University of Málaga**
 
