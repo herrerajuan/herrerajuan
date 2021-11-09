@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying Bioinformatics @ **University of Málaga**
 
-- 💬 Let's chat about **Javascript, Front-end development or AI**
+- 💬 Let's chat about **Software and UX engineering**
 
 - 📫 How to reach me: **jaherreraconde@gmail.com**
 
